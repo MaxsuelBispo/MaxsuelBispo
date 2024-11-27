@@ -1,8 +1,8 @@
 ## Olá! Eu me chamo Maxsuel Bispo 👋
 
+[![Blog](https://img.shields.io/website?label=@B.Insightt&style=for-the-badge&url=https%3A%2F%2Fwww.threads.net%2F%40b.insightt)](https://www.threads.net/@b.insightt)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@b.insight)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxsuelbispo/)
 
 ## Linguagens e tecnologias que eu utilizo no meu dia a dia  ☕
@@ -14,8 +14,10 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+   
   
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
-💻 Desenvolvedor júnior...
+💻💬 | Desenvolvedor júnior em busca de criar soluções inovadoras. Sempre aprendendo sobre novas tecnologias e melhorando minhas habilidades em desenvolvimento de software. Atualmente, focado em projetos de desenvolvimento web e aplicações mobile, com planos para expandir meu portfólio com novos desafios em inteligência artificial e automação. Acredito que a prática constante e a colaboração em equipe são essenciais para crescer como profissional. Fique ligado para meus futuros projetos!
