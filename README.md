@@ -2,7 +2,7 @@
 
 [![Blog](https://img.shields.io/website?label=@B.Insightt&style=for-the-badge&url=https%3A%2F%2Fwww.threads.net%2F%40b.insightt)](https://www.threads.net/@b.insightt)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@b.insight)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/b.insightt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxsuelbispo/)
 
 ## Linguagens e tecnologias que eu utilizo no meu dia a dia  ☕
